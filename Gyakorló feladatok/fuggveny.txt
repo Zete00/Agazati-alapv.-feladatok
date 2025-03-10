@@ -1,0 +1,2 @@
+﻿def atlagfogyasztas( tavolsag, fogyasztas ):
+    return (fogyasztas / tavolsag) * 100
